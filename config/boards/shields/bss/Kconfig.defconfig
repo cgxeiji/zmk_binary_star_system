@@ -1,7 +1,7 @@
 if SHIELD_BSS_RIGHT
 
 config ZMK_KEYBOARD_NAME
-    default "Binary Star System"
+    default "Binary Star"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y

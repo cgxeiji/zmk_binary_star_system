@@ -60,7 +60,7 @@
 &kp TAB     &kp W       &kp L       &kp R       &kp B                                                       &kp N7      &kp N8      &kp N9      &kp MINUS   &kp COMMA
 &kp Z       &kp S       &kp N       &kp T       &kp D                                                       &kp N4      &kp N5      &kp N6      &kp N0      &kp DOT
 &kp Q       &kp J       &kp P       &kp C       &kp K                                                       &kp N1      &kp N2      &kp N3      &kp SLASH   &kp ENTER
-                        &out OUT_BLE &kp A      &kp A       &kp A       &kp A       &trans      &trans      &trans      &trans      &BT_CLR
+                        &out OUT_BLE &kp A      &kp A       &kp A       &kp A       &trans      &trans      &trans      &trans      &bt BT_CLR
 
                 >;
             };

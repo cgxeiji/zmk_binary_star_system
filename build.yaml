@@ -1,6 +1,6 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: bss_left
-  - board: seeeduino_xiao_ble
     shield: bss_right
+  - board: seeeduino_xiao_ble
+    shield: bss_left
 # there is no settingsreset (needed) for the XIAO

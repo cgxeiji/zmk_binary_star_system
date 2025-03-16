@@ -2,10 +2,15 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: cgx
+      url-base: https://github.com/cgxeiji
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
+    - name: zmk_binary_star_system
+      remote: cgx
+      revision: master
   self:
     path: config
